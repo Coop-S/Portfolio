@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url('https://cdn.hipwallpaper.com/i/11/61/t0pRji.jpg');
+}
+
+form {
+    border-radius: 25px;
+    border-style: groove;
+    background-color: rgb(122, 190, 122);
+    margin-top: 50px;
+    padding: 40px;
+}
+
+.style {
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.para {
+    position: absolute;
+    color: lightpink;
+    top: 85%;
+    left: 39%;
+    transform: translate(-50%, -50%);
+    background-color: teal;
+    width: 70%;
+    line-height: 35px;
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(72, 54, 177);
+    color: white;
+    padding: 10px;
+}
+
+.About-me {
+    color: rgb(72, 54, 177);
+    border-radius: 25px;
+    border-style: groove;
+    background-color: rgb(122, 190, 122);
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.Contact {
+    color: rgb(72, 54, 177);
+}
+
+.Portfolio {
+    color: rgb(72, 54, 177);
+    text-align: justify;
+    
+}
+
+img {
+    width: 76%;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    line-height: 35px;
+    width: 100%;
+    overflow: auto;
+}
