@@ -1,5 +1,5 @@
 # Coop-S.github.io
-Coop-S.github.io is my website used for class homework assignmetnts. You will find the websites for homework-2 in the homework-2 folder under contact.html, About.html, and portfolio.html.
+Coop-S/Portfolio is my website used for class homework 2:Responsive Portfolio. You will find the websites for homework-2 under index.html, About.html, and portfolio.html.
 # Technology used
 Html
 CSS
