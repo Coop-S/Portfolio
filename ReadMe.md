@@ -1,5 +1,5 @@
 # Coop-S.github.io
-Coop-S/Portfolio is my website used for class homework 2:Responsive Portfolio. You will find the websites for homework-2 under index.html, About.html, and portfolio.html.
+Coop-S/Portfolio is my website used for class homework 2:Responsive Portfolio file:///C:/Users/Acer-PC/Desktop/UWbootcamp/Portfolio/contact.html. You will find the websites for homework-2 under index.html, About.html, and portfolio.html.
 # Technology used
 Html
 CSS
